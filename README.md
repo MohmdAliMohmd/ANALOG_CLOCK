@@ -203,5 +203,3 @@ void Draw_Circle(int Radius, Pen pen)
 
 ### **Summary**
 This program creates a functional analog clock using Windows Forms. It dynamically updates the clock hands every second and includes hour and minute markings. The `Graphics` class is used extensively to draw the clock components, and the `Timer` ensures the clock updates in real-time.
-
-Let me know if you need further clarification!
