@@ -1,7 +1,15 @@
+> **Language Notice**: 
+> [View in Arabic (العربية)](README_AR.md) |
+
+# Analog Clock - Windows Forms Application
+
+![Analog Clock Screenshot](images/analogClock.png) 
+
+
 This code is a C# implementation of an **analog clock** using Windows Forms. It creates a graphical representation of a clock with hour, minute, and second hands, along with hour and minute markings. Below is a detailed explanation of the code:
 
 ---
-
+![Calculator Screenshot]() 
 ### **1. Namespace and Class**
 ```csharp
 namespace ANALOG_CLOCK
